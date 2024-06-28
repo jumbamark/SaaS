@@ -1,4 +1,4 @@
-# SaaS Foundations
+# SaaS
 
 Build the foundations for a Software as a Service business by leveraging Django, Tailwind, htmx, Neon Postgres, Redis, and more.
 
@@ -11,7 +11,7 @@ The goal of this project is to learn how to create a reusable foundation for bui
 - Create a One-Off Secret Key for Django [blog post](https://www.codingforentrepreneurs.com/blog/create-a-one-off-django-secret-key/)
 
 
-Thank you to [Neon](https://kirr.co/eu0b31) for helping bring this course to life!
+[Neon](https://kirr.co/eu0b31)
 
 
 ## Getting Started
